@@ -1,0 +1,5 @@
+Flask
+easyocr
+gunicorn
+Pillow
+torch
